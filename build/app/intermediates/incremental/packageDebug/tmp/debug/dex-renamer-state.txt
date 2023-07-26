@@ -1,0 +1,4 @@
+#Tue Jul 25 18:14:15 ECT 2023
+base.0=C\:\\Users\\antho\\Downloads\\qrcode_generator_share-main\\qrcode_generator_share-main\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
